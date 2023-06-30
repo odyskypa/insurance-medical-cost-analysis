@@ -1,5 +1,5 @@
 # Insurance-Medical-Cost-Analysis
-Project of Statistical Inference and Modeling (SIM) Course for Master in Data Science Program of Universitat Politècnica de Catalunya (UPC)
+Project of Statistical Inference and Modeling (SIM) Course for the Program `Master in Data Science` of Universitat Politècnica de Catalunya (UPC)
 ***
 * Explanatory Data Analysis
 * Hypotheses testing (mean, variance, CI)
